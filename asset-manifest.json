@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogingFirebaseProject/static/css/main.170a4e94.css",
+    "main.js": "/blogingFirebaseProject/static/js/main.4b166254.js",
+    "index.html": "/blogingFirebaseProject/index.html",
+    "main.170a4e94.css.map": "/blogingFirebaseProject/static/css/main.170a4e94.css.map",
+    "main.4b166254.js.map": "/blogingFirebaseProject/static/js/main.4b166254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170a4e94.css",
+    "static/js/main.4b166254.js"
+  ]
+}
